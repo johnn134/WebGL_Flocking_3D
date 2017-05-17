@@ -1,5 +1,8 @@
-John Nelson - jpnelson@wpi.edu
-CS 4732 - D17 - Project 3
+John Nelson - john@johnpnelson.com
+Flocking Boids in a 3D environment - WebGL
+
+Running program can be found on my github.io at:
+https://johnn134.github.io/WebGL_Flocking_3D/
 
 The youtube video of my project running can be found at:
 https://youtu.be/rUf1xYcTuXw
@@ -39,12 +42,3 @@ My development environment runs in WebGL. My files are as so:
 		Note that the entire file is on one line so there is not much
 		to read here.
 		Source: http://sylvester.jcoglan.com/
-
--spline.js : This file contains the object code for my splines, control points, spline
-		interpolation and approximation, and quaternion slerping.
-
--splineReader.js : This file contains the functions for reading in a spline txt file
-			and building the spline from the information.
-
--spline1.txt : this is the given spline txt file. It holds the splines for animating each object
-		in the bird figure hierarchy.
